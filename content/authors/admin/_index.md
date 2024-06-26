@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 常海洋
+title: Haiyang Chang
 
 # Name pronunciation (optional)
-name_pronunciation: Haiyang Chang
+# name_pronunciation: Haiyang Chang
 
 # Full name (for SEO)
 first_name: Haiyang
@@ -23,9 +23,9 @@ highlight_name: true
 role: Chief Scientist
 
 # Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: OpenAI
-    url: https://openai.com/
+#organizations:
+#  - name: OpenAI
+#    url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
