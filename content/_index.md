@@ -32,12 +32,12 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 My Research Experience'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        In my role as a bioinformatics professional, I have demonstrated proficiency in single-cell RNA sequencing (scRNA-seq) analysis, showcasing a range of essential skills. I am experienced in variant calling using Freebayes, particularly adept at extracting meaningful insights from 10x Genomics BAM files. Notably, I have successfully navigated the challenges posed by large datasets, routinely working with collections exceeding one million cells. My expertise extends to conducting RNA velocity analyses, providing a dynamic perspective on gene expression patterns. Additionally, I have a keen interest in mutational signature analysis, unraveling the genomic landscape of individual cells. Leveraging tools such as cellranger, I have efficiently processed FASTA files, ensuring the accuracy and reliability of my analyses. My skill set also encompasses isoform analysis, further enhancing my ability to dissect the intricacies of scRNA-seq data. 
+        
+        I am eager to contribute these skills and experiences to a dynamic team in a challenging bioinformatics role.
         
         Please reach out to collaborate 😃
     design:
