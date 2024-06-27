@@ -1,0 +1,19 @@
+<div class="skills-section">
+    {{ with .Site.RegularPages.GetPage "/authors/admin" }}
+      {{ range .Params.skills }}
+        <div class="skill-category">
+          <h3>{{ .name }}</h3>
+          <ul>
+            {{ range .items }}
+              <li>
+                <span>{{ .name }} ({{ .percent }}%)</span>
+                {{ if .icon }}
+                  <img src="{{ .Site.BaseURL }}/assets/media/icons/{{ .icon }}.svg" alt="{{ .name }} icon">
+                {{ end }}
+              </li>
+            {{ end }}
+          </ul>
+        </div>
+      {{ end }}
+    {{ end }}
+  </div>
