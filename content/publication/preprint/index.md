@@ -1,12 +1,17 @@
 ---
 title: "Single cell RNA-sequencing of feline peripheral immune cells with V(D)J repertoire and cross species analysis of T lymphocytes"
 authors:
+- Raneesh Ramarapu
+- Judit M. Wulcan
 - admin
-date: "2019-04-07T00:00:00Z"
-doi: ""
+- Peter F. Moore
+- William Vernau
+- Stefan M. Keller
+date: "2024-05-23"
+doi: "10.1101/2024.05.21.595010"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2024-05-23"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -14,8 +19,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "Frontiers in Immunology"
+
 
 abstract: 
 Introduction
@@ -35,22 +40,16 @@ Keywords: feline, T cells, single cell RNA-sequencing (scRNA-seq), T-cell recept
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags:
-- Large Language Models
+
 
 featured: true
 
 links:
 - name: Custom Link
-  url: http://example.org
+  url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11142102/
 url_pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11142102/pdf/nihpp-2024.05.21.595010v2.pdf
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+url_dataset: 'https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE267355'
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -65,20 +64,15 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- internal-project
+- scRNA-project
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+
 ---
 
-This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
