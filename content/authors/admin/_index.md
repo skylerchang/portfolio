@@ -57,7 +57,7 @@ education:
       Research experience:
       - Developed a Python-based antigen receptor Clustering Tool, processing one million unique sequences in 5 minutes on a MacBook Air with an M2 chip, maintaining high clustering quality comparable to established tools.
       - Designed and implemented an R Shiny dashboard  for clonotype clustering visualization, incorporating interactive network graphs, phylogenetic trees, and logo representation plots, enhancing the exploration of high-publicity clusters as potential immune signatures.
-      - Collaborated on a pioneering project to conduct T cell receptor repertoire analysis using single-cell RNA sequencing in both healthy cats and dogs and  perform the TCR (T-cell receptor) clustering analysis.
+      - Collaborated on a pioneering project to conduct T cell receptor (TCR) repertoire analysis using single-cell RNA sequencing in both healthy cats and dogs and  perform the TCR clustering analysis.
       - Executed comprehensive comparative analysis of immune repertoires in dog neurological diseases across two anatomical compartments, identifying novel ante-mortem diagnostic tools through clonotype clustering and sequence pattern similarity analysis.
 
     
