@@ -36,8 +36,7 @@ profiles:
     url: https://www.linkedin.com/in/haiyang-skyler-chang/
   - icon: academicons/google-scholar
     url: https://scholar.google.ca/citations?user=xCn3JkAAAAAJ&hl=en
-  - icon: brands/email
-    url: hchang02@uoguelph.ca
+
 
 
 interests:
