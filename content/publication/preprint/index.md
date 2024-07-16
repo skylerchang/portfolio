@@ -29,7 +29,7 @@ Unsupervised clustering of whole transcriptome data revealed 7 major cell popula
 Discussion.
 Our study is the first to characterize subsets of circulating T cells utilizing an integrative approach of single cell RNA-sequencing, V(D)J repertoire analysis and cross species analysis. In addition, we characterize the transcriptome of several myeloid cell subsets and demonstrate immune cell relatedness across different species.
 
-keywords: feline, T cells, single cell RNA-sequencing (scRNA-seq), T-cell receptor repertoire, cross species analysis, myeloid cells, V(D)J
+
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
