@@ -40,9 +40,9 @@ profiles:
 
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - AI models in multi-omics
+  - Drug discovery and design 
+  - Cancer Genomics 
 
 education:
   - area: PhD Bioinformatics
@@ -70,35 +70,32 @@ education:
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      GPA: 3.8/4.0
+
+      Research experience:
+      - Conducted experiments involving the construction and expression of plasmid vectors of human glutamate oxaloacetate transaminases, performing protein purification and enzymatic activity assessment.
+      - Optimized protein expression conditions, successfully published the crystallization structures in the Protein Data Bank (PDB) with IDs: 3WZF and 5AX8. 
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Graduate and Undergraduate Teaching Assistant
+    company_name: University of Guelph
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2019-09-01
+    date_end: 2023-04-30
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Prepared educational materials and hands-on labs for lecture sessions on Unix commands, high-performance computing (HPC), and bioinformatics sequencing analysis (genome assembly, bulk RNA-seq, SNP anlysis, ATAC-seq and ChIP-seq.)
+      - Led weekly lab sessions and tutorials for undergraduate students in statistics and R software, providing support for statistical modeling, data analysis, and visualization.
+  - position: Research Assistant
+    company_name: University of Guelph
+    company_url: ''
+    company_logo: ''
+    date_start: 2018-09-01
+    date_end: 2018-12-01
+    summary: |
+      Responsibilities include:
+      - Created a shell pipeline script leveraging an evolutionary algorithm to identify high-similarity antigen receptors, streamlining the analysis process from Illumina sequencing platform to HPC platform.
+      - Conducted immune sequencing analysis for three canine disease projects (lymphoma, minimal residual disease, and inflammatory conditions), contributing to one co-authored academic paper.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
