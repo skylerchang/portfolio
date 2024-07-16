@@ -61,10 +61,12 @@ education:
     summary: |
       GPA: 3.95/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Research experience:
+      - Conducted experiments involving the construction and expression of plasmid vectors of human glutamate oxaloacetate transaminases, performing protein purification and enzymatic activity assessment.
+      - Optimized protein expression conditions, successfully published the crystallization structures in the Protein Data Bank (PDB) with IDs: 3WZF and 5AX8. 
+    button:
+      text: 'Read Thesis'
+      url: 'https://atrium.lib.uoguelph.ca/items/87dd161d-56e6-4b35-a878-05671a4f005b'
   - area: BSc Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
