@@ -61,9 +61,12 @@ education:
     summary: |
       GPA: 3.95/4.0
 
-      Research experience:
-      - Conducted experiments involving the construction and expression of plasmid vectors of human glutamate oxaloacetate transaminases, performing protein purification and enzymatic activity assessment.
-      - Optimized protein expression conditions, successfully published the crystallization structures in the Protein Data Bank (PDB) with IDs: 3WZF and 5AX8. 
+      Major Courses:
+      - Bioinformatics Programming 
+      - Machine Learning
+      - Genomic Methods 
+      - Statistics in Bioinformatics
+      - Bioinformatics Software tools
     button:
       text: 'Read Thesis'
       url: 'https://atrium.lib.uoguelph.ca/items/87dd161d-56e6-4b35-a878-05671a4f005b'
