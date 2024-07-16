@@ -43,7 +43,7 @@ featured: true
 links:
 - name: Custom Link
   url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11142102/pdf/nihpp-2024.05.21.595010v2.pdf
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: '#'
 url_poster: '#'
