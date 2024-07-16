@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Bioinformatician/Computational Biologist/Data Scientist
 
 # Organizations/Affiliations to display in Biography blox
 #organizations:
@@ -52,8 +52,8 @@ interests:
   - Information Retrieval
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: PhD Bioinformatics
+    institution: University of Guelph
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -61,12 +61,12 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: MSc Bioinformatics
+    institution: University of Guelph
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      GPA: 3.8/4.0
+      GPA: 3.95/4.0
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
