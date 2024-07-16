@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+👋 Hi, I’m Haiyang, and you can call me Skyler. I am a dedicated bioinformatician with a robust background in computational biology and a deep passion for data analytics. My research primarily focuses on immune repertoire sequencing analysis and mastering advanced techniques in next-generation sequencing, including single-cell RNA sequencing, RNA sequencing, ATAC sequencing, and ChIP sequencing analysis. I am proficient in Python and R, which I utilize extensively to mine genomic data with machine learning and deep learning. My goal is to drive forward innovations in genomic research and healthcare, contributing to transformative advances in the field.
