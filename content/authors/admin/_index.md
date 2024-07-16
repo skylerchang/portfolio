@@ -30,9 +30,8 @@ role: Bioinformatician/Computational Biologist/Data Scientist
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'hchang02@uoguelph.ca'
-    label: E-mail Me
+  - icon: brands/email
+    url: hchang02@uoguelph.ca
   - icon: brands/github
     url: https://github.com/skylerchang
   - icon: brands/linkedin
