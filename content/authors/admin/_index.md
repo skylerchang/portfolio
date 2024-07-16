@@ -30,14 +30,14 @@ role: Bioinformatician/Computational Biologist/Data Scientist
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: brands/email
-    url: hchang02@uoguelph.ca
   - icon: brands/github
     url: https://github.com/skylerchang
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/haiyang-skyler-chang/
   - icon: academicons/google-scholar
     url: https://scholar.google.ca/citations?user=xCn3JkAAAAAJ&hl=en
+  - icon: brands/email
+    url: hchang02@uoguelph.ca
 
 
 interests:
