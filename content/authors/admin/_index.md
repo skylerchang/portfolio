@@ -50,7 +50,17 @@ education:
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      - First-author paper at 1 BMC Bioinformatics
+      - Co-author papers at 2 Frontiers in Immunology and 1 in BMC Veterinary Research
+      - Co-author paper at 1 IEEE conferences 
+
+      Research experience:
+      - Developed a Python-based antigen receptor Clustering Tool, processing one million unique sequences in 5 minutes on a MacBook Air with an M2 chip, maintaining high clustering quality comparable to established tools.
+      - Designed and implemented an R Shiny dashboard  for clonotype clustering visualization, incorporating interactive network graphs, phylogenetic trees, and logo representation plots, enhancing the exploration of high-publicity clusters as potential immune signatures.
+      - Collaborated on a pioneering project to conduct T cell receptor repertoire analysis using single-cell RNA sequencing in both healthy cats and dogs and  perform the TCR (T-cell receptor) clustering analysis.
+      - Executed comprehensive comparative analysis of immune repertoires in dog neurological diseases across two anatomical compartments, identifying novel ante-mortem diagnostic tools through clonotype clustering and sequence pattern similarity analysis.
+
+    
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
@@ -70,8 +80,8 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://atrium.lib.uoguelph.ca/items/87dd161d-56e6-4b35-a878-05671a4f005b'
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: MSc Biology
+    institution: Dalian University of Technology
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -79,7 +89,8 @@ education:
 
       Research experience:
       - Conducted experiments involving the construction and expression of plasmid vectors of human glutamate oxaloacetate transaminases, performing protein purification and enzymatic activity assessment.
-      - Optimized protein expression conditions, successfully published the crystallization structures in the Protein Data Bank (PDB) with IDs: 3WZF and 5AX8. 
+      - Optimized protein expression conditions, successfully published the crystallization structures in the Protein Data Bank (PDB) with IDs: 3WZF and 5AX8.
+      - Co-author papers at Protein Expression and Purification and BioScience Trends.
 work:
   - position: Graduate and Undergraduate Teaching Assistant
     company_name: University of Guelph
