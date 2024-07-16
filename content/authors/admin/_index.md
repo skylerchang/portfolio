@@ -63,7 +63,7 @@ education:
     
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
+      url: 'https://atrium.lib.uoguelph.ca/items/a79c0f10-47f2-4b10-aa25-2e53e456a9d2'
   - area: MSc Bioinformatics
     institution: University of Guelph
     date_start: 2016-01-01
