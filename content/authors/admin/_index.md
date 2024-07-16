@@ -33,18 +33,13 @@ profiles:
   - icon: at-symbol
     url: 'hchang02@uoguelph.ca'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/skylerchang
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/haiyang-skyler-chang/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://scholar.google.ca/citations?user=xCn3JkAAAAAJ&hl=en
+
 
 interests:
   - Artificial Intelligence
