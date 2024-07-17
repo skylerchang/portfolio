@@ -1,11 +1,11 @@
 ---
-title: Learn Python
-summary: Easily learn Python in 10 minutes!
+title: Learn Bioinformatics
+summary: Genomics Methods for Bioinformatics
 date: 2023-10-24
 type: docs
 math: false
 tags:
-  - Python
+  - Bioinformatics
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
