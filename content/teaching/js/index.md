@@ -1,17 +1,17 @@
 ---
-title: Learn Python
-summary: Easily learn Python in 10 minutes!
-date: 2023-10-24
+title: Graduate Course
+summary: Genomics Methods for Bioinformatics
+date: 2021-01-06
 type: docs
 math: false
 tags:
-  - Python
+  - Genomics Methods for Bioinformatics
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
 
 
-**Embed videos, podcasts, code, LaTeX math, and even test students!**
+**Major Duty**
 
 Facilitated laboratory sessions on high-throughput sequencing data analysis using high-performance computing (HPC), covering genome assembly, functional genomics analysis, and population genetics.
 
