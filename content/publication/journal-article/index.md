@@ -1,36 +1,46 @@
 ---
-title: "Canine peripheral blood TCRαβ T cell atlas: Identification of diverse subsets including CD8A+ MAIT-like cells by combined single-cell transcriptome and V(D)J repertoire analysis"
+title: "An example journal article"
 authors:
-- Maria Eschke
-- Peter F. Moore
 - admin
-- Gottfried Alber
-- Stefan M. Keller
+- Robert Ford
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
+date: "2015-09-01T00:00:00Z"
+doi: ""
 
-date: "2023-02-22"
+# Schedule page publish date (NOT publication's date).
+publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-academic journal']
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: Frontiers in Immunology
+publication: "*Journal of Source Themes, 1*(1)"
+publication_short: ""
 
-abstract: The dog is valued as a companion animal and increasingly recognized as a model for human disorders. Given the importance of T cells in health and disease, comprehensive knowledge of canine T cells can contribute to our understanding of pathogenesis mechanisms and inform the development of new treatment strategies. However, the diversity of canine T cells is still poorly understood mainly due to the lack of species-reactive antibodies for use in flow cytometry. The aim of this study was to generate a detailed atlas of peripheral blood TCRαβ+ T cells of healthy dogs using single-cell RNA-sequencing (scRNAseq) combined with immune repertoire sequencing. A total of 22 TCRαβ+ T cell clusters were identified, which were classified into three major groups: CD4-dominant (11 clusters), CD8A-dominant (8 clusters), and CD4/CD8A-mixed (3 clusters). Based on differential gene expression, distinct differentiation states (naïve, effector, memory, exhausted) and lineages (e.g. CD4 T helper and regulatory T cells) could be distinguished. Importantly, several T cell populations were identified, which have not been described in dogs before. Of particular note, our data provide first evidence for the existence of canine mucosa-associated invariant T cell (MAIT)-like cells, representing one of three newly identified FCER1G+ innate-like CD8A+ T cell populations in the peripheral blood of healthy dogs. In conclusion, using scRNAseq combined with immune repertoire sequencing we were able to resolve canine TCRαβ+ T cell populations at unprecedented resolution. The peripheral blood TCRαβ+ T cell atlas of healthy dogs generated here represents an important reference data set for future studies and is of relevance for identifying new targets for T cell-specific therapies.
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
-summary: The peripheral blood TCRαβ+ T cell atlas of healthy dogs generated here represents an important reference data set for future studies and is of relevance for identifying new targets for T cell-specific therapies.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Single cell RNA sequencing
-featured: true
+- Source Themes
+featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2023.1123366/pdf?isPublishedV2=false
-url_dataset: 'https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE218355'
+url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -54,3 +64,12 @@ projects: []
 slides: example
 ---
 
+{{% callout note %}}
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /callout %}}
+
+{{% callout note %}}
+Create your slides in Markdown - click the *Slides* button to check out the example.
+{{% /callout %}}
+
+Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
