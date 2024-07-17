@@ -76,7 +76,7 @@ sections:
   - block: collection
     id: news
     content:
-      title: Projects
+      title: ''
       subtitle: ''
       text: ''
       filters:
