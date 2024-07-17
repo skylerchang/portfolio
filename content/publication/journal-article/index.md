@@ -1,11 +1,10 @@
 ---
-title: "Single cell RNA-sequencing of feline peripheral immune cells with V(D)J repertoire and cross species analysis of T lymphocytes"
+title: "Canine peripheral blood TCRαβ T cell atlas: Identification of diverse subsets including CD8A+ MAIT-like cells by combined single-cell transcriptome and V(D)J repertoire analysis"
 authors:
-- Raneesh Ramarapu
-- Judit M. Wulcan
-- admin
+- Maria Eschke
 - Peter F. Moore
-- William Vernau
+- admin
+- Gottfried Alber
 - Stefan M. Keller
 date: "2024-05-23"
 doi: "10.1101/2024.05.21.595010"
