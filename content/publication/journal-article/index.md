@@ -31,7 +31,7 @@ summary:  The peripheral blood TCRαβ+ T cell atlas of healthy dogs generated h
 
 tags:
   - Single cell RNA sequencing
-featured: true
+featured: false
 
 # links:
 # - name: ""
