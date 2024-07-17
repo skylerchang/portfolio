@@ -1,11 +1,11 @@
 ---
-title: Undergraduate Courses
-summary: Statistics I
+title: Statitical I
+summary: Undergraduate Course
 date: 2019-09-10
 type: docs
 math: false
 tags:
-  - Statistics I
+  - Undergraduate Course
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---

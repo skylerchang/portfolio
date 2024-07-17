@@ -1,11 +1,11 @@
 ---
-title: Graduate Course
-summary: Genomics Methods for Bioinformatics
+title: Genomics Methods for Bioinformatics
+summary: Graduate Course
 date: 2021-01-06
 type: docs
 math: false
 tags:
-  - Genomics Methods for Bioinformatics
+  - Graduate Course
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---

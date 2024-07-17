@@ -1,11 +1,11 @@
 ---
-title: Undergraduate Courses
-summary: R Statitical Analysis
+title: R Statitical Analysis
+summary: Undergraduate Course
 date: 2019-09-10
 type: docs
 math: false
 tags:
-  - R Statitical Analysis
+  - Undergraduate Course
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---

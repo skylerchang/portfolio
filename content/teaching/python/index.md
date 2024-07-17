@@ -1,11 +1,11 @@
 ---
-title: Undergraduate Courses
-summary: Applied Bioinformatics
+title: Applied Bioinformatics
+summary: Undergraduate Course
 date: 2019-09-10
 type: docs
 math: false
 tags:
-  - Applied Bioinformatics
+  - Undergraduate Course
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
