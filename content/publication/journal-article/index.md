@@ -1,8 +1,12 @@
 ---
-title: "An example journal article"
+title: "Canine peripheral blood TCRαβ T cell atlas: Identification of diverse subsets including CD8A+ MAIT-like cells by combined single-cell transcriptome and V(D)J repertoire analysis"
 authors:
+- Maria Eschke
+- Peter F. Moore
 - admin
-- Robert Ford
+- Gottfried Alber
+- Stefan M. Keller
+
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
