@@ -1,42 +1,39 @@
 ---
-title: "Recombinant expression, purification and crystallographic
-studies of the mature form of human mitochondrial aspartate
-aminotransferase"
+title: "Expression, purification and preliminary crystallographic studies of human glutamate oxaloacetate transaminase 1 (GOT1)"
 authors:
 - Xiuping Jiang
-- Jia Wang1,
 - admin
 - Yong Zhou
 
 
-date: "2016-02-22"
-doi: "10.5582/bst.2015.01150"
+date: "2015-5-21"
+doi: ""
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['conference paper']
+publication_types: ['academic paper']
 
 # Publication name and optional abbreviated publication name.
-publication: BioScience Trends
+publication: Protein Expression and Purification
 
-abstract: Mitochondrial aspartate aminotransferase (mAspAT) was recognized as a moonlighting enzyme because it has not only aminotransferase activity but also a high-affinity long-chain fatty acids (LCFA) binding site. This enzyme plays a key role in amino acid metabolism, biosynthesis of kynurenic acid and transport of the LCFA. Therefore, it is important to study the structure-function relationships of human mAspAT protein. In this work, the mature form of human mAspAT was expressed, purified and crystallized.  Elucidation of mAspAT structure can provide a molecular basis towards understanding catalysis mechanism and substrate binding site of enzyme.
+abstract: Glutamate oxaloacetate transaminase (GOT) catalyzes the reversible reaction of l-aspartate and α-ketoglutarate into oxaloacetate and l-glutamate and plays a key role in carbon and nitrogen metabolism in all organisms. In human tissues, GOTs are pyridoxal 5′-phosphate-dependent (PLP) enzymes which exist in cytoplasm and mitochondrial forms, GOT1 and GOT2, respectively. GOT1 expression correlates with the growth of several tumors because cancer cells can utilize the amino acid glutamine to fuel anabolic processes, and therefore, GOT1 represents a new therapeutic target in cancer.
 
 # Summary. An optional shortened abstract.
-summary: In this work, the mature form of human mAspAT was expressed to a high level in Escherichia coli periplasmic space using pET-22b vector, purified by a combination of immobilized metal-affinity chromatography and cation exchange chromatography. 
+summary: In this work, the mature form of human GOT1 was expressed to a high level in Escherichia coli periplasmic space using pET-22b vector, purified by a combination of immobilized metal-affinity chromatography and cation exchange chromatography. 
 
 tags:
   - Protein Expression, Purification and Crystallization
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.jstage.jst.go.jp/article/bst/10/1/10_2015.01150/_pdf/-char/en'
+url_pdf: 'https://www.sciencedirect.com/science/article/pii/S1046592815001230#f0015'
 
 
 
