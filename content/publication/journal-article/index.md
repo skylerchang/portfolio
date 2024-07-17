@@ -6,8 +6,8 @@ authors:
 - admin
 - Gottfried Alber
 - Stefan M. Keller
-date: "2024-05-23"
-doi: "10.1101/2024.05.21.595010"
+date: "2023-02-22"
+doi: "10.3389/fimmu.2023.1123366"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -15,12 +15,12 @@ doi: "10.1101/2024.05.21.595010"
 publication_types: ['paper-academic journal']
 
 # Publication name and optional abbreviated publication name.
-publication: Pre-print
+publication: Frontiers in Immunology
 
-abstract: The domestic cat (Felis catus) is a valued companion animal and a model for virally induced cancers and immunodeficiencies. However, species-specific limitations such as a scarcity of immune cell markers constrain our ability to resolve immune cell subsets at sufficient detail. The goal of this study was to characterize circulating feline T cells and other leukocytes based on their transcriptomic landscape and T-cell receptor repertoire using single cell RNA-sequencing. Unsupervised clustering of whole transcriptome data revealed 7 major cell populations - T cells, neutrophils, monocytic cells, B cells, plasmacytoid dendritic cells, mast cells and platelets. Sub cluster analysis of T cells resolved naive (CD4+ and CD8+), CD4+ effector T cells, CD8+ cytotoxic T cells and gamma/delta T cells. Cross species analysis revealed a high conservation of T cell subsets along an effector gradient with equitable representation of veterinary species (horse, dog, pig) and humans with the cat. Our V(D)J repertoire analysis demonstrated a skewed T-cell receptor alpha gene usage and a restricted T-cell receptor gamma junctional length in CD8+ cytotoxic T cells compared to other alpha/beta T cell subsets. Among myeloid cells, we resolved three clusters of classical monocytes with polarization into pro- and anti-inflammatory phenotypes in addition to a cluster of conventional dendritic cells. Lastly, our neutrophil sub clustering revealed a larger mature neutrophil cluster and a smaller exhausted/activated cluster. Our study is the first to characterize subsets of circulating T cells utilizing an integrative approach of single cell RNA-sequencing, V(D)J repertoire analysis and cross species analysis. In addition, we characterize the transcriptome of several myeloid cell subsets and demonstrate immune cell relatedness across different species.
+abstract: The dog is valued as a companion animal and increasingly recognized as a model for human disorders. Given the importance of T cells in health and disease, comprehensive knowledge of canine T cells can contribute to our understanding of pathogenesis mechanisms and inform the development of new treatment strategies. However, the diversity of canine T cells is still poorly understood mainly due to the lack of species-reactive antibodies for use in flow cytometry. The aim of this study was to generate a detailed atlas of peripheral blood TCRαβ+ T cells of healthy dogs using single-cell RNA-sequencing (scRNAseq) combined with immune repertoire sequencing. A total of 22 TCRαβ+ T cell clusters were identified, which were classified into three major groups: CD4-dominant (11 clusters), CD8A-dominant (8 clusters), and CD4/CD8A-mixed (3 clusters). Based on differential gene expression, distinct differentiation states (naïve, effector, memory, exhausted) and lineages (e.g. CD4 T helper and regulatory T cells) could be distinguished. Importantly, several T cell populations were identified, which have not been described in dogs before. Of particular note, our data provide first evidence for the existence of canine mucosa-associated invariant T cell (MAIT)-like cells, representing one of three newly identified FCER1G+ innate-like CD8A+ T cell populations in the peripheral blood of healthy dogs. In conclusion, using scRNAseq combined with immune repertoire sequencing we were able to resolve canine TCRαβ+ T cell populations at unprecedented resolution. The peripheral blood TCRαβ+ T cell atlas of healthy dogs generated here represents an important reference data set for future studies and is of relevance for identifying new targets for T cell-specific therapies.
 
 # Summary. An optional shortened abstract.
-summary: This study was to characterize circulating feline T cells and other leukocytes based on their transcriptomic landscape and T-cell receptor repertoire using single cell RNA-sequencing.
+summary: The peripheral blood TCRαβ+ T cell atlas of healthy dogs generated here represents an important reference data set for future studies and is of relevance for identifying new targets for T cell-specific therapies.
 
 tags:
   - Single cell RNA sequencing
