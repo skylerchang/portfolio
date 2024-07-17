@@ -3,7 +3,7 @@ title: Immune Repertoire Analysis Dashboard
 date: 2023-10-26
 external_link: https://github.com/skylerchang/ClonotypeNetworkVis
 tags:
-  - Hugo
+  - R shiny
   - Wowchemy
   - Markdown
 ---

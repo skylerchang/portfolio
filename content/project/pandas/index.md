@@ -3,7 +3,7 @@ title: Anchor Clustering
 date: 2023-10-26
 external_link: https://github.com/skylerchang/Anchor_Clustering_Nt
 tags:
-  - Hugo
+  - Python
   - Wowchemy
   - Markdown
 ---
