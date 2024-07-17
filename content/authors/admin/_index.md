@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Bioinformatician/Computational Biologist/Data Scientist
+role: Bioinformatician/Computational Biologist
 
 # Organizations/Affiliations to display in Biography blox
 #organizations:
