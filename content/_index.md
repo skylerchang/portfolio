@@ -16,9 +16,6 @@ sections:
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download CV
-        url: uploads/Haiyang_Chang_CV.pdf
-      button:
         text: Download Resume
         url: uploads/Haiyang_Chang_Resume.pdf
     design:
