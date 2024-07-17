@@ -24,8 +24,8 @@ publishDate: '2024-01-25T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: BMC Bioinformatics
+publication_short: ""
 
 abstract: The clustering of immune repertoire data is challenging due to the computational cost associated with a very large number of pairwise sequence comparisons. To overcome this limitation, we developed Anchor Clustering, an unsupervised clustering method designed to identify similar sequences from millions of antigen receptor gene sequences. First, a Point Packing algorithm is used to identify a set of maximally spaced anchor sequences. Then, the genetic distance of the remaining sequences to all anchor sequences is calculated and transformed into distance vectors. Finally, distance vectors are clustered using unsupervised clustering. This process is repeated iteratively until the resulting clusters are small enough so that pairwise distance comparisons can be performed. Our results demonstrate that Anchor Clustering is faster than existing pairwise comparison clustering methods while providing similar clustering quality. With its flexible, memory-saving strategy, Anchor Clustering is capable of clustering millions of antigen receptor gene sequences in just a few minutes. This method enables the meta-analysis of immune-repertoire data from different studies and could contribute to a more comprehensive understanding of the immune repertoire data space.
 
