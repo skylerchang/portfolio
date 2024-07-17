@@ -1,17 +1,16 @@
 ---
-title: 'An example conference paper'
+title: 'Anchor Clustering for million-scale immune repertoire sequencing data'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - Daniel A. Ashlock
+  - Steffen P. Graether
+  - Stefan M. Keller
 
-# Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+
 
 date: '2013-07-01T00:00:00Z'
 doi: ''
@@ -28,13 +27,13 @@ publication_types: ['paper-conference']
 publication: In *Hugo Blox Builder Conference*
 publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The clustering of immune repertoire data is challenging due to the computational cost associated with a very large number of pairwise sequence comparisons. To overcome this limitation, we developed Anchor Clustering, an unsupervised clustering method designed to identify similar sequences from millions of antigen receptor gene sequences. First, a Point Packing algorithm is used to identify a set of maximally spaced anchor sequences. Then, the genetic distance of the remaining sequences to all anchor sequences is calculated and transformed into distance vectors. Finally, distance vectors are clustered using unsupervised clustering. This process is repeated iteratively until the resulting clusters are small enough so that pairwise distance comparisons can be performed. Our results demonstrate that Anchor Clustering is faster than existing pairwise comparison clustering methods while providing similar clustering quality. With its flexible, memory-saving strategy, Anchor Clustering is capable of clustering millions of antigen receptor gene sequences in just a few minutes. This method enables the meta-analysis of immune-repertoire data from different studies and could contribute to a more comprehensive understanding of the immune repertoire data space.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: We present a novel clustering algorithm that can process million-scale datasets than possible with existing methods, yet still obtain similar clustering quality. Anchor Clustering could facilitate meta-analyses of immune repertoire datasets and help characterize the immune repertoire sequence space in a more comprehensive manner.
 
 tags:
-  - Large Language Models
+  - Machine Learning algorithm
 
 # Display this page in the Featured widget?
 featured: true
@@ -44,14 +43,8 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+url_pdf: 'https://bmcbioinformatics.biomedcentral.com/counter/pdf/10.1186/s12859-024-05659-z.pdf'
+url_dataset: 'https://github.com/skylerchang/Anchor_Clustering_Nt.'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -76,12 +69,13 @@ projects:
 slides: example
 ---
 
+
 {{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
 {{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
+Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+
