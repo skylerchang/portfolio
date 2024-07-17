@@ -165,10 +165,12 @@ awards:
     date: '2023-11-25'
     awarder: Coursera
     icon: coursera
+    certificate_url: https://www.datacamp.com
     summary: |
       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
+  - title: Google Data Analyst
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+    certificate_url: https://www.datacamp.com
     date: '2023-07-01'
     awarder: edX
     icon: edx
