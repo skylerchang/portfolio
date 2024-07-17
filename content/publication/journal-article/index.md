@@ -7,11 +7,11 @@ authors:
 
 
 
-date: "2023-02-22T00:00:00Z"
+date: "2015-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-02-22 T00:00:00Z"
+publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -29,7 +29,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 # links:
 # - name: ""
@@ -43,7 +43,7 @@ url_dataset: 'https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE218355'
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
-  preview_only: true
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -61,9 +61,11 @@ slides: example
 ---
 
 {{% callout note %}}
-Click the _PDF_ button above to read full publication.
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
 {{% callout note %}}
-Click the _DATASET_ button above to download the data.
+Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
+
+Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
