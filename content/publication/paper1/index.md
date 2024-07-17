@@ -1,5 +1,5 @@
 ---
-title: "Single cell RNA-sequencing of feline peripheral immune cells with V(D)J repertoire and cross species analysis of T lymphocytes"
+title: "Use of immune repertoire sequencing to resolve discordant microscopic and immunochemical findings in a case of T cell-rich large B cell lymphoma in a young dog"
 authors:
 - Raneesh Ramarapu
 - Judit M. Wulcan
@@ -16,27 +16,27 @@ doi: "10.1101/2024.05.21.595010"
 publication_types: ['paper-academic journal']
 
 # Publication name and optional abbreviated publication name.
-publication: Pre-print
+publication: BMC 
 
-abstract: The domestic cat (Felis catus) is a valued companion animal and a model for virally induced cancers and immunodeficiencies. However, species-specific limitations such as a scarcity of immune cell markers constrain our ability to resolve immune cell subsets at sufficient detail. The goal of this study was to characterize circulating feline T cells and other leukocytes based on their transcriptomic landscape and T-cell receptor repertoire using single cell RNA-sequencing. Unsupervised clustering of whole transcriptome data revealed 7 major cell populations - T cells, neutrophils, monocytic cells, B cells, plasmacytoid dendritic cells, mast cells and platelets. Sub cluster analysis of T cells resolved naive (CD4+ and CD8+), CD4+ effector T cells, CD8+ cytotoxic T cells and gamma/delta T cells. Cross species analysis revealed a high conservation of T cell subsets along an effector gradient with equitable representation of veterinary species (horse, dog, pig) and humans with the cat. Our V(D)J repertoire analysis demonstrated a skewed T-cell receptor alpha gene usage and a restricted T-cell receptor gamma junctional length in CD8+ cytotoxic T cells compared to other alpha/beta T cell subsets. Among myeloid cells, we resolved three clusters of classical monocytes with polarization into pro- and anti-inflammatory phenotypes in addition to a cluster of conventional dendritic cells. Lastly, our neutrophil sub clustering revealed a larger mature neutrophil cluster and a smaller exhausted/activated cluster. Our study is the first to characterize subsets of circulating T cells utilizing an integrative approach of single cell RNA-sequencing, V(D)J repertoire analysis and cross species analysis. In addition, we characterize the transcriptome of several myeloid cell subsets and demonstrate immune cell relatedness across different species.
+abstract: Background
+Lymphocytic neoplasms with frequent reactive lymphocytes are uncommonly reported in dogs, and can pose a diagnostic challenge. Different diagnostic modalities such as cytology, flow cytometry, histopathology, immunohistochemistry, and clonality testing, are sometimes required for a diagnosis. This report illustrates the value of using a multi-modal diagnostic approach to decipher a complex lymphocytic tumor, and introduces immune repertoire sequencing as a diagnostic adjunct. A 10-month-old Great Dane was referred for marked ascites. Cytologic analysis of abdominal fluid and hepatic aspirates revealed a mixed lymphocyte population including numerous large lymphocytes, yielding a diagnosis of lymphoma. Flow cytometrically, abdominal fluid lymphocytes were highly positive for CD4, CD5, CD18, CD45, and MHC II, consistent with T cell lymphoma. Due to a rapidly deteriorating clinical condition, the dog was euthanized. Post mortem histologic evaluation showed effacement of the liver by aggregates of B cells surrounded by T cells, suggestive of hepatic T cell-rich large B cell lymphoma. Immune repertoire sequencing confirmed the presence of clonal B cells in the liver but not the abdominal fluid, whereas reactive T cells with shared, polyclonal immune repertoires were found in both locations. T cell-rich large B cell lymphoma is a rare neoplasm in dogs that may be challenging to diagnose and classify due to mixed lymphocyte populations. In this case, the results of histopathology, immunohistochemistry and immune repertoire sequencing were most consistent with a hepatic B cell neoplasm and reactive T cells exfoliating into the abdominal fluid. Immune repertoire sequencing was helpful in delineating neoplastic from reactive lymphocytes and characterizing repertoire overlap in both compartments. The potential pitfalls of equating atypical cytomorphology and monotypic marker expression in neoplasia are highlighted.
 
 # Summary. An optional shortened abstract.
-summary: This study was to characterize circulating feline T cells and other leukocytes based on their transcriptomic landscape and T-cell receptor repertoire using single cell RNA-sequencing.
+summary: This report illustrates the value of using a multi-modal diagnostic approach to decipher a complex lymphocytic tumor, and introduces immune repertoire sequencing as a diagnostic adjunct. 
 
 tags:
-  - Single cell RNA sequencing
+  - Immune sequencing analysis
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11142102/pdf/nihpp-2024.05.21.595010v2.pdf'
-# url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE267355'
+url_pdf: 'https://link.springer.com/content/pdf/10.1186/s12917-021-02783-3.pdf'
+
 
 
 # Featured image

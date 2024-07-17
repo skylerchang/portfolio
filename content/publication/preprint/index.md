@@ -1,5 +1,5 @@
 ---
-title: "Use of immune repertoire sequencing to resolve discordant microscopic and immunochemical findings in a case of T cell-rich large B cell lymphoma in a young dog"
+title: "Single cell RNA-sequencing of feline peripheral immune cells with V(D)J repertoire and cross species analysis of T lymphocytes"
 authors:
 - Raneesh Ramarapu
 - Judit M. Wulcan
@@ -27,7 +27,7 @@ tags:
   - Single cell RNA sequencing
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
@@ -44,7 +44,7 @@ url_dataset: 'https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE267355'
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ''
-  preview_only: false
+  preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
