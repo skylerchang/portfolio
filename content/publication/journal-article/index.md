@@ -18,10 +18,10 @@ publishDate: "2017-01-01T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
+publication_types: ["academic-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "Frontiers in Immunology"
 publication_short: ""
 
 abstract: The dog is valued as a companion animal and increasingly recognized as a model for human disorders. Given the importance of T cells in health and disease, comprehensive knowledge of canine T cells can contribute to our understanding of pathogenesis mechanisms and inform the development of new treatment strategies. However, the diversity of canine T cells is still poorly understood mainly due to the lack of species-reactive antibodies for use in flow cytometry. The aim of this study was to generate a detailed atlas of peripheral blood TCRαβ+ T cells of healthy dogs using single-cell RNA-sequencing (scRNAseq) combined with immune repertoire sequencing. A total of 22 TCRαβ+ T cell clusters were identified, which were classified into three major groups: CD4-dominant (11 clusters), CD8A-dominant (8 clusters), and CD4/CD8A-mixed (3 clusters). Based on differential gene expression, distinct differentiation states (naïve, effector, memory, exhausted) and lineages (e.g. CD4 T helper and regulatory T cells) could be distinguished. Importantly, several T cell populations were identified, which have not been described in dogs before. Of particular note, our data provide first evidence for the existence of canine mucosa-associated invariant T cell (MAIT)-like cells, representing one of three newly identified FCER1G+ innate-like CD8A+ T cell populations in the peripheral blood of healthy dogs. In conclusion, using scRNAseq combined with immune repertoire sequencing we were able to resolve canine TCRαβ+ T cell populations at unprecedented resolution. The peripheral blood TCRαβ+ T cell atlas of healthy dogs generated here represents an important reference data set for future studies and is of relevance for identifying new targets for T cell-specific therapies.
@@ -30,8 +30,8 @@ abstract: The dog is valued as a companion animal and increasingly recognized as
 summary:  The peripheral blood TCRαβ+ T cell atlas of healthy dogs generated here represents an important reference data set for future studies and is of relevance for identifying new targets for T cell-specific therapies.
 
 tags:
-- Source Themes
-featured: false
+  - Single cell RNA sequencing
+featured: true
 
 # links:
 # - name: ""
@@ -62,11 +62,5 @@ projects: []
 slides: example
 ---
 
-{{% callout note %}}
-Click the _PDF_ button above to read full publication.
-{{% /callout %}}
 
-{{% callout note %}}
-Click the _DATASET_ button above to download the data.
-{{% /callout %}}
 
