@@ -176,8 +176,8 @@ awards:
     url: https://www.coursera.org/professional-certificates/google-data-analytics
     certificate_url: 
     date: '2022-09-28'
-    awarder: Google
-    icon: google
+    awarder: Coursera
+    icon: coursera
     certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/F4SPV4FKNN27
     summary: |
       - Gain an immersive understanding of the practices and processes used by a junior or associate data analyst in their day-to-day job.
@@ -190,8 +190,8 @@ awards:
     url: https://www.coursera.org/professional-certificates/meta-database-engineer
     certificate_url: https://www.coursera.org/account/accomplishments/verify/5LG6ESQWUKL9
     date: '2023-01-21'
-    awarder: Meta
-    icon: meta
+    awarder: Coursera
+    icon: coursera
     summary: |
       - Utilize the MySQL DBMS to build and modify relational databases with SQL.
       - Create relationships between tables using primary and foreign keys .
