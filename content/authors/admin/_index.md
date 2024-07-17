@@ -120,16 +120,26 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 100
         icon: code-bracket
-      - name: Data Science
+      - name: R
         description: ''
         percent: 100
-        icon: chart-bar
+        icon: code-bracket
       - name: SQL
         description: ''
-        percent: 40
+        percent: 60
         icon: circle-stack
+      - name: Shell
+        percent: 100
+        icon: code-bracket
+      - name: Docker
+        percent: 100
+        icon: code-bracket
+      - name: Git
+        percent: 100
+        icon: code-bracket
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -142,10 +152,18 @@ skills:
         description: ''
         percent: 100
         icon: cat
+      - name: Birds
+        description: ''
+        percent: 100
+        icon: bird
       - name: Photography
         description: ''
         percent: 80
         icon: camera
+      - name: Games
+        description: ''
+        percent: 80
+        icon: game
 
 languages:
   - name: English
