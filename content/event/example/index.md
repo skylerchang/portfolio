@@ -1,28 +1,49 @@
 ---
-title: Example Talk
+title: Doctoral Defense
 
-event: Hugo Blox Builder Conference
-event_url: https://www.uoguelph.ca/bioinformatics/news/2023/01/winter-2023-binf-virtual-seminar-series
-
-location: Hugo Blox Builder HQ
+location: Summerlee Science Complex Room 1511
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: 50 Stone Road East Guelph
+  city: Guelph
+  region: Ontario
+  country: Canada
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: Characterization of Immune Repertoires in Dogs with Neurologic Disease
+abstract: Adaptive immunity is mediated by antigen receptors on lymphocytes. These
+receptors are non-germline encoded and are created at random in every lymphocyte.
+Lymphocyte antigen receptors facilitate the recognition of foreign or self-antigen, and
+the abundance of specific clones that are encountered in an individual reflects prior
+contact. Consequently, understanding the composition of an individual’s immune
+repertoire, i.e. the range of lymphocyte antigen receptor sequences, can yield insights
+into infectious or immune-mediated conditions. Given the vastness of the antigen
+receptor sequence space, it is essential to reduce its complexity by identifying similar, functionally related sequences by clustering. However, the clustering of immune
+repertoire data is challenging due to the computational cost associated with pairwise
+sequence comparison. To overcome this limitation, I developed Anchor Clustering, an
+unsupervised clustering method designed to identify similar sequences from millions of
+antigen receptor gene sequences was created. The results demonstrate that Anchor Clustering is faster than existing pairwise comparison clustering methods
+while achieving similar clustering quality. I then applied Anchor Clustering to
+characterize immune repertoires in dogs with neurologic disease across two different
+anatomical compartments. I first provide a detailed analysis of variable and joining gene usage is provided firstly and a network analysis for immune repertoires in the
+cerebrospinal fluid (CSF) from dogs with neurologic disease is performed. I
+then characterize immune repertoires in the nervous tissue (NT) from dogs with
+Meningoencephalitides of Unknown Origin (MUO), a common and devastating disease
+of dogs. Lastly, I investigate the shared repertoire space between the CSF
+and NT compartments. I show that immune repertoires in both
+compartments share similar V/J gene usage and k-mer frequencies, and I identify
+receptor sequences that are found in both compartments and that are associated with
+distinct diseases. These findings show that CSF samples can be used to interrogate
+disease processes in the NT and that disease-associated immune repertoires could be
+harnessed as an ante-mortem tool for the diagnosis of central nervous system diseases
+in dogs.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2024-03-25T13:00:00Z'
+date_end: '2024-03-25T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2024-03-25T00:00:00Z'
 
 authors:
   - admin
@@ -41,10 +62,7 @@ image:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: 'https://github.com'
-url_pdf: ''
-url_slides: 'https://slideshare.net'
-url_video: 'https://youtube.com'
+
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -61,15 +79,3 @@ slides: ""
 projects:
   - example
 ---
-
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
-
-Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
