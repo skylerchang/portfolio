@@ -11,9 +11,9 @@ cascade:
 
 sections:
   - block: collection
-    id: teaching
+    id: teaching 
     content:
-      title: Teaching
+      title: Teaching Assistant
       filters:
         folders:
           - teaching
