@@ -6,7 +6,7 @@ authors:
 - Yong Zhou
 
 
-date: "2015-5-21"
+date: "2015-05-21"
 doi: ""
 
 # Publication type.
