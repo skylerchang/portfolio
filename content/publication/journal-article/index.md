@@ -7,9 +7,7 @@ authors:
 - Gottfried Alber
 - Stefan M. Keller
 
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+
 date: "2023-02-22T00:00:00Z"
 doi: ""
 
