@@ -1,5 +1,5 @@
 ---
-title: Doctoral Defense
+title: Title
 
 location: Summerlee Science Complex Room 1511
 address:
