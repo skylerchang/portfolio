@@ -7,7 +7,7 @@ authors:
 - Mei-Hua Hwang
 - Nikos Darzentas
 - admin
-- Emily Rätsep
+- Emily Ratsep
 - Rebecca Egan 
 - Janet Beeler-Marfisi
 
