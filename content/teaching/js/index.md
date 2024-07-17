@@ -1,6 +1,6 @@
 ---
-title: Graduate Course
-summary: BINF*6110: Genomics Methods for Bioinformatics
+title: Learn Python
+summary: Easily learn Python in 10 minutes!
 date: 2023-10-24
 type: docs
 math: false
