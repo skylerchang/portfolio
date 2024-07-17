@@ -149,11 +149,12 @@ skills:
 
 languages:
   - name: English
-    percent: 100
+    percent: 85
   - name: Chinese
-    percent: 75
-  - name: Portuguese
+    percent: 100
+  - name: Japanese
     percent: 25
+
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -162,31 +163,38 @@ languages:
 awards:
   - title: Neural Networks and Deep Learning
     url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
+    date: '2024-06-12'
     awarder: Coursera
     icon: coursera
-    certificate_url: https://www.datacamp.com
+    certificate_url: https://www.coursera.org/account/accomplishments/specialization/5BQYQ7YTPAYQ
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+      - Build and train deep neural networks, identify key architecture parameters, implement vectorized neural networks and deep learning to applications
+      - Train test sets, analyze variance for DL applications, use standard techniques and optimization algorithms, and build neural networks in TensorFlow
+      - Build a CNN and apply it to detection and recognition tasks, use neural style transfer to generate art, and apply algorithms to image and video data
+      - Build and train RNNs, work with NLP and Word Embeddings, and use HuggingFace tokenizers and transformer models to perform NER and Question Answering.
   - title: Google Data Analyst
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    certificate_url: https://www.datacamp.com
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+    url: https://www.coursera.org/professional-certificates/google-data-analytics
+    certificate_url: 
+    date: '2022-09-28'
+    awarder: Google
+    icon: google
+    certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/F4SPV4FKNN27
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
+      - Gain an immersive understanding of the practices and processes used by a junior or associate data analyst in their day-to-day job.
+      - Learn key analytical skills (data cleaning, analysis, & visualization) and tools (spreadsheets, SQL, R programming, Tableau). 
+      - Understand how to clean and organize data for analysis, and complete analysis and calculations using spreadsheets, SQL and R programming.
+      - Learn how to visualize and present data findings in dashboards, presentations and commonly used visualization platforms.
+      
+
+  - title: 'Database Structures and Management with MySQL'
+    url: https://www.coursera.org/professional-certificates/meta-database-engineer
+    certificate_url: https://www.coursera.org/account/accomplishments/verify/5LG6ESQWUKL9
     date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+    awarder: Meta
+    icon: meta
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      - Utilize the MySQL DBMS to build and modify relational databases with SQL.
+      - Create relationships between tables using primary and foreign keys .
 ---
 
 ## About Me
