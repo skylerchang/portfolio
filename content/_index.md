@@ -66,7 +66,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Doctoral Defense
+      title: Talks
       filters:
         folders:
           - event
