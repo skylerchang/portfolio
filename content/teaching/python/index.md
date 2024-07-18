@@ -12,6 +12,8 @@ image:
 
 
 **Major Duty**
+
+
 Prepared educational materials and hands-on labs for an undergraduate-level course introducing students to applied bioinformatics.
 
 
