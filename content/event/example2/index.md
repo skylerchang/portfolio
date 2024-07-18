@@ -1,6 +1,5 @@
 ---
 title: Anchor Clustering for Large-scale Immune Repertoire Sequencing Data
-event_url: https://www.uoguelph.ca/bioinformatics/news/2023/01/winter-2023-binf-virtual-seminar-series
 
 location: Summerlee Science Complex Room 1511
 address:
