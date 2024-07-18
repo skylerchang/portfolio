@@ -4,7 +4,7 @@ studies of the mature form of human mitochondrial aspartate
 aminotransferase"
 authors:
 - Xiuping Jiang
-- Jia Wang1,
+- Jia Wang,
 - admin
 - Yong Zhou
 
