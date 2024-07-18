@@ -18,3 +18,5 @@ Led weekly lab sessions and tutorials for undergraduate students in statistics a
 
 Assisted students in understanding statistical concepts and R programming for data analysis, visualization, and statistical modeling.
 
+**Record of TA history** 
+
