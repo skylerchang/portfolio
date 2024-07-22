@@ -33,7 +33,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11142102/pdf/nihpp-2024.05.21.595010v2.pdf'
+url_pdf: 'https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2023.1123366/pdf?isPublishedV2=false'
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: 'https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE267355'
 
